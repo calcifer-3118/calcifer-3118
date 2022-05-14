@@ -6,7 +6,9 @@
 
 
 
-- 🌱 I’m currently learning **Unity Game Engine**
+- 🌱 I’m currently learning **Three.js**
+- 🍵 I have some experience working on Unity Game Engine with C# as the primary language
+- ☕ I have also done Android Development with JavaScript.
 
 - 📫 How to reach me **dev.dheer.mocha@gmail.com**
 
