@@ -10,7 +10,7 @@
 - 🍵 I have some experience working on Unity Game Engine with C# as the primary language
 - ☕ I have also done Android Development with JavaScript.
 
-- 📫 How to reach me **dev.dheer.mocha@gmail.com**
+- 📫 How to reach me **calcifer3118@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
