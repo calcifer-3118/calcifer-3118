@@ -42,7 +42,7 @@ An NPM package that allows developers to easily create immersive portal transiti
 
 ### Portfolio Website  
 Built using **Remix**, **Three.js**, **GSAP**, and **TailwindCSS** — a seamless blend of 3D UI and performance.  
-[🔗 Live Demo](https://portfolio-website-cms-remix.vercel.app/)
+[🔗 Live Demo](https://www.neural-workspace.com/)
 
 ---
 
