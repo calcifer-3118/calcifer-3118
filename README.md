@@ -50,16 +50,13 @@ alt="Typing introduction"
 <table>
 <tr>
 <td valign="top" width="58%">
-
 I like building software that feels more like a world than a webpage.
 
 Most of my work sits around creative development, real-time graphics and the web. I move between Three.js scenes, React interfaces, shaders, motion systems and game-like mechanics.
 
 Right now I'm spending most of my time around Three.js · React · GLSL · GSAP · WebXR · Unity.
-
 </td>
 <td valign="top" width="42%">
-
 CURRENTLY
 
 - building immersive tools
@@ -130,7 +127,7 @@ A digital art gallery built around spatial exploration - 3D exhibition environme
   />
 </a>
 
-<br />
+<br /> 
 
 <strong>02 / Neural Workspace</strong>
 
@@ -176,7 +173,7 @@ Third-person movement, bots, drones, terminals, multiple camera systems, portals
 
 <br />
 
-<strong>04 / Virtual Wrench</strong>
+<strong>03 / Virtual Wrench</strong>
 
 A 3D motorcycle customization tool built around the idea that changing a machine should feel as tactile as changing one in a real garage.
 
@@ -212,7 +209,7 @@ Interactive parts, camera systems, modular components and real-time visualizatio
 </a>
 
 
-<strong>05 / Outrealm</strong>
+<strong>04 / Outrealm</strong>
 
 What if different websites could behave like different rooms inside the same world?
 
@@ -351,49 +348,20 @@ UI experiments · motion studies · prototypes · abandoned ideas
 
 <h2>✦ after hours</h2>
 
+<p align="center">
+  <img src="./assets/hero.jpg" width="340" />
+  <img src="./assets/desk.jpg" width="240" />
+  <img src="./assets/psp5.jpg" width="220" />
+</p>
 
-<table>
-<tr>
-<td width="56%" valign="top">
-
-<a href="#now-playing">
-  <img src="./assets/hero.jpg" width="100%" />
-  <img src="./assets/psp5.jpg" width="100%" />
-  <img src="./assets/b1.jpg" width="100%" />
-</a>
-
-
-</td>
+<p align="center">
+  <img src="./assets/b1.jpg" width="220" />
+  <img src="./assets/after-hours-1.gif" width="300" />
+  <img src="./assets/after-hours.gif" width="340" />
+</p>
 
 
 
-
-<td width="44%" valign="top">
-
-<table width="100%">
-<tr>
-<td>
-<img src="./assets/desk.jpg" width="100%" />
-</td>
-</tr>
-<tr>
-<td>
-<img src="./assets/after-hours-1.gif" width="100%" />
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="./assets/after-hours.gif" width="100%" />
-</td>
-</tr>
-
-</table>
-
-
-</td>
-</tr>
-</table>
 <br />
 
 
