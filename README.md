@@ -27,7 +27,7 @@ alt="Typing introduction"
 </p>
 
 <p>
-  <a href="https://www.neural-workspace.com/">↗ website</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.dheerjain.me/">↗ website</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://devlog-dheer.hashnode.dev">↗ devlog</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dheer-jain/">↗ linkedin</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/calcifer-3118?tab=repositories">↗ repositories</a>
